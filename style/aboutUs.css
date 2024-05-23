@@ -1,0 +1,28 @@
+.aboutUs-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5em;
+ 
+}
+
+.aboutUs__subtitle {
+    margin-top: 8%;
+    color: var(--alert-color);
+    font-weight: 600;
+}
+
+.aboutUs__title {
+    font-size: 3rem;
+    color: var(--title-color);
+    font-weight: 600;
+}
+
+.aboutUs__text {
+    text-align: center;
+    font-size: 1.25rem;
+}
+
+.aboutUs__text br {
+    margin-bottom: 0.5em;
+}
