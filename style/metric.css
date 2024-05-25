@@ -1,0 +1,27 @@
+.metric-container{
+    text-align: center;
+}
+.metric__box{
+    display: inline-block;
+    width: 17.5rem;
+    margin: 6em 5em;
+    text-align: left;
+}
+
+
+.metric__title {
+    font-size: 3.75rem;
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+.metric__subtitle {
+    font-size: 1.125rem;
+    color: var(--title-color);
+    font-weight: 500;
+    margin: 1em 0;
+}
+
+.metric__text {
+    line-height: 1.5em;
+}

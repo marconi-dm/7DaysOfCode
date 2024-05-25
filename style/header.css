@@ -44,6 +44,6 @@
     text-decoration: none;
     color:var(--background-color);
     padding: 1em ;
-    background-color: var(--alert-color);
+    background-color: var(--accent-color);
     border-radius: .5rem;
 }
