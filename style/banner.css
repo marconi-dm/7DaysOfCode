@@ -1,0 +1,31 @@
+.banner-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.banner__subtitle {
+    background: var(--subtitle-background);
+    padding: .5em 1em;
+    font-size: .875rem;
+    font-weight: 500;
+    border-radius: .625rem;
+}
+
+.banner_title {
+    font-size: 2.25rem;
+    font-weight: 600;
+    color: var(--title-color);
+    margin: 1em 0;
+}
+
+.banner__image {
+    margin-top: 2.5em;
+    width: 90%;
+}
+
+.banner__text{
+    font-size: 1.25rem;
+}

@@ -3,6 +3,7 @@
 @import url("/style/header.css");
 @import url("/style/aboutUs.css");
 @import url("/style/metric.css");
+@import url("/style/banner.css");
 
 
 :root{
@@ -12,6 +13,8 @@
     --background-color: #FFFFFF;
     --accent-color:#8E2424;
     --primary-font:"Inter", sans-serif;
+    --subtitle-background:#8E24240D 5%;
+
 
 }
 
