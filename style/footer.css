@@ -1,0 +1,32 @@
+.footer__container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 2em;
+    background-color: var(--footer-background);
+    padding: 5em;
+}
+
+.footer__text{
+    font-size: 1.25rem;
+    margin: 2em 0;
+}
+
+.footer__input {
+    width: 22rem;
+    height: 3rem;
+    border-radius: 1em;
+    padding-left: 1em;
+}
+
+.footer_btn {
+    width: 7.25rem;
+    height: 55px;
+    background-color: var(--accent-color);
+    color: var(--white-color-btn);
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 1em;
+}
+

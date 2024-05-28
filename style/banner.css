@@ -22,8 +22,9 @@
 }
 
 .banner__image {
-    margin-top: 2.5em;
+    margin: 2.5em 0;
     width: 90%;
+
 }
 
 .banner__text{

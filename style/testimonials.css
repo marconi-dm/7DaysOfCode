@@ -1,0 +1,31 @@
+.testimonials-container {
+
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+
+.testimonials__box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: .5em;
+    text-align: center;
+    background: var(--testimonials-background);
+    border-radius: 1rem;
+    padding: 0 10em 6em;
+    margin: 6em 0;
+}
+
+.testimonials__subtitle{
+    font-size: .875rem;
+}
+
+.testimonials__name{
+    font-weight: 500;
+    color: var(--title-color);
+    margin-top: .5em;
+
+}

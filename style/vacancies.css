@@ -1,0 +1,29 @@
+.vacancies-container{
+    width: 40%;
+    margin: 2em auto;
+}
+
+.vacancies__title,.card__title{
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: var(--title-color);
+    margin-top: 3em;
+}
+
+.card__title {
+    display: block;
+    margin: 1.5em 1em;
+    font-size: 1.125rem;
+}
+
+.vacancies__card {
+    width: 48rem;
+    height: 8.5rem;
+    border: 1px solid var(--border-color);
+    border-radius: 1rem;
+    margin: 2em 0;
+}
+
+.card__information{
+    margin: 2.5em 1.1em;
+}
