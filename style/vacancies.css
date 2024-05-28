@@ -25,5 +25,7 @@
 }
 
 .card__information{
+    display: flex;
     margin: 2.5em 1.1em;
+    gap: 1em;
 }
